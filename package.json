@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/daannjciee9201/viteweb#readme",
   "devDependencies": {
+    "sass": "^1.94.2",
     "vite": "^7.2.4"
   },
   "dependencies": {
